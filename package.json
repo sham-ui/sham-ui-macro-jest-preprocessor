@@ -1,0 +1,26 @@
+{
+  "name": "sham-ui-macro-jest-preprocessor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sham-ui-macro-jest-preprocessor.git"
+  },
+  "keywords": [
+    "sham-ui"
+  ],
+  "author": "Eugene Burnashov <shamcode@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sham-ui/sham-ui-macro-jest-preprocessor/issues"
+  },
+  "homepage": "https://github.com/sham-ui/sham-ui-macro-jest-preprocessor#readme",
+  "dependencies": {
+    "babel-jest": "^23.4.2",
+    "find-babel-config": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
